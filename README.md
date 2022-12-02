@@ -1,10 +1,6 @@
 # King_salmon_IPM
 Code for logistic growth model and linear regressions fitted to King salmon experimental data. The linear regression coefficients were fed into the integral projection model (IPM). Includes code for all figures used in the manuscript submitted to Aquaculture (and some code for additional, exploratory figures).
 
-Find the data file here: 
-
-
-
 
 Useful publications for fitting IPMs:
 Coulson, T. (2012). Integral projections models, their construction and use in posing hypotheses in ecology. Oikos, 121(9), 1337–1350. https://doi.org/10.1111/j.1600-0706.2012.00035.x
